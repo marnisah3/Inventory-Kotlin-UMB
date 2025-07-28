@@ -1,5 +1,5 @@
-## Nama : Mirnawati 
-## Nim  : 220220026
+## Nama : Marnisah 
+## Nim  : 220220024
 ## Universitas Muhammadiyah Banten 
 
 
@@ -57,15 +57,15 @@ InventoriToko-Kotlin-UMB adalah aplikasi Android berbasis Kotlin yang berfungsi 
  
 ---
 ## 📱Tampilan Login 
-![alt text](https://github.com/watimirna/Inventori-Kotlin-UMB/blob/master/Gambar/login.jpeg?raw=true)
+![alt text](https://github.com/marnisah3/Inventory-Kotlin-UMB/blob/master/Gambar/Login.png?raw=true)
 ## 📲Tampilan Register
-![alt text](https://github.com/watimirna/Inventori-Kotlin-UMB/blob/master/Gambar/Register.jpeg?raw=true)
+![alt text](https://github.com/marnisah3/Inventory-Kotlin-UMB/blob/master/Gambar/Register.png?raw=true)
 ## 📦Tampilan List Barang/Tampilan Menu
-![alt text](https://github.com/watimirna/Inventori-Kotlin-UMB/blob/master/Gambar/Tampilan%20Menu.jpeg?raw=true)
+![alt text](https://github.com/marnisah3/Inventory-Kotlin-UMB/blob/master/Gambar/Tampilan%20menu.png?raw=true)
 ## 🛒Tampilan Keranjang
-![alt text](https://github.com/watimirna/Inventori-Kotlin-UMB/blob/master/Gambar/Tampilan%20Keranjang.jpeg?raw=true)
+![alt text](https://github.com/marnisah3/Inventory-Kotlin-UMB/blob/master/Gambar/Tampilan%20Keranjang.png?raw=true)
 ## ✅Pembelian/Pembayaran Berhasil
-![alt text](https://github.com/watimirna/Inventori-Kotlin-UMB/blob/master/Gambar/Pembayaran%20Sukses.jpeg?raw=true)
+![alt text](https://github.com/marnisah3/Inventory-Kotlin-UMB/blob/master/Gambar/Pembayaran%20berhasil.png?raw=true)
 
 
 ## 🛠️ Tools & Teknologi
